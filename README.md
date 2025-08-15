@@ -3,7 +3,7 @@ desenvolvendo o readme.md para meu perfil
 
 ## Oi :wave:
 
-Meu nome é Luis Yamaagata, moro no Rio de Janeiro, tenho 34 anos e estou cursando Análise e Desenvolvimento de Sistemas. Antes disso estudei Direito, mas não concluí, trabalhei no Direito em um estágio e posteriormente fui efetivado como trainee em uma empresa da área de Direito do Trabalho e Direito Previdenciário. Depois, tive experiências trabalhando fora do mundo corporativo, sendo a mais recente dela em um bar.
+Meu nome é Luis Yamagata, moro no Rio de Janeiro, tenho 34 anos e estou cursando Análise e Desenvolvimento de Sistemas. Antes disso estudei Direito, mas não concluí, trabalhei no Direito em um estágio e posteriormente fui efetivado como trainee em uma empresa da área de Direito do Trabalho e Direito Previdenciário. Depois, tive experiências trabalhando fora do mundo corporativo, sendo a mais recente dela em um bar.
 
 Desde Outubro de 2024 comecei a estudar programação por conta própria, com cursos online. Depois, iniciei esse meu curso (ADS) no SENAC-RJ em Agosto de 2025. E estou adorando esse mundo. Apesar das dificuldades, ainda me deslumbro muito com a programação e o que o computador consegue fazer quando escrevemos código pra ele.
 
