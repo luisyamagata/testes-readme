@@ -9,7 +9,7 @@ Desde Outubro de 2024 comecei a estudar programação por conta própria, com cu
 
 ---
 
-##Atualmente estou aprendendo
+## Atualmente estou aprendendo
 
 ![badge javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![badge python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -19,6 +19,6 @@ Desde Outubro de 2024 comecei a estudar programação por conta própria, com cu
 
 ---
 
-##Contatos
+## Contatos
 
 [![https://www.linkedin.com/in/luis-yamagata-381a994b/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-yamagata-381a994b/) [![luisyamagata@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisyamagata@gmail.com) 
