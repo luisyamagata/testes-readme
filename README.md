@@ -21,4 +21,5 @@ Desde Outubro de 2024 comecei a estudar programação por conta própria, com cu
 
 ## Contatos
 
-[![https://www.linkedin.com/in/luis-yamagata-381a994b/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-yamagata-381a994b/) [![luisyamagata@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisyamagata@gmail.com) 
+[![https://www.linkedin.com/in/luis-yamagata-381a994b/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-yamagata-381a994b/) [![luisyamagata@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisyamagata@gmail.com). 
+
